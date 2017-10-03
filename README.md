@@ -14,6 +14,8 @@ Syntax highlighted code block
 # Header 1
 HONEYSHA'S TEST PAGE
 ## Header 2
+
+YES
 ### Header 3
 
 - Bulleted
